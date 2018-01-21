@@ -11,3 +11,4 @@ This is the Peer-reviewed project for the Getting and Cleaning Data course. The 
     - creates the tidy_data_set 
 
 The result has been submitted in the tidy_data_set text file.
+
